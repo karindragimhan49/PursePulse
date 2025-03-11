@@ -279,7 +279,7 @@ export const verifyForgotPasswordCode = async (req, res) => {
             return res.status(400).json({ success: false, message: "Incorrect verification code!" });
         }
 
-        // Hash new password and update user
+        // Hash new password and update
         existingUser.password = await doHash(newPassword, 12);
         existingUser.forgotPasswordCode = undefined;
         existingUser.forgotPasswordCodeValidation = undefined;
