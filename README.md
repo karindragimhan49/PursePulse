@@ -141,5 +141,5 @@ This backend includes scheduled jobs for automation:
 ## 📜 License
 This project is licensed under the **ISC License**. See the `LICENSE` file for details. 📄
 
-Happy Coding! 🎉🚀
+
 
