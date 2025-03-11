@@ -291,7 +291,7 @@ export const verifyForgotPasswordCode = async (req, res) => {
         console.error("Error in verifyForgotPasswordCode:", error);
         return res.status(500).json({ success: false, message: "Internal server error" });
     }
-};
+}
 
 export const adminCheck = async (req,res) => {
     return res.status(200).json({ success: true, message: "admin right !" });
