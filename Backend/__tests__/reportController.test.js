@@ -8,5 +8,5 @@ describe("Report Controller", () => {
     afterAll(async () => {
       await mongoose.connection.close();
     });
-  });
+  })
   
