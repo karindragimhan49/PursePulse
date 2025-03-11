@@ -5,7 +5,7 @@ describe("Budget Controller", () => {
         amount: 100,
       });
       expect(res.status).toBe(201);
-      expect(res.body).toHaveProperty("message");
+      expet(res.body).toHaveProperty("message");
     });
   
     afterAll(async () => {
