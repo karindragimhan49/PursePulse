@@ -230,3 +230,44 @@ Want to contribute? Follow these steps:
 ## **License**
 This project is licensed under the **ISC License**. See the LICENSE file for details.
 
+About
+Welcome to the Finance Tracker with Currency Converter ! 🎯 This backend powers a Finance Tracker application, providing robust API endpoints to manage user authentication, transactions, goals, budgets, and more. The backend leverages MongoDB, Node.js, Express, and other tools to help users efficiently manage their financial data. 💰📊
+
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Contributors
+2
+@karindragimhan49
+karindragimhan49 Karindragimhan49
+@github-classroom[bot]
+github-classroom[bot]
+Languages
+JavaScript
+100.0%
+Suggested workflows
+Based on your tech stack
+Datadog Synthetics logo
+Datadog Synthetics
+Run Datadog Synthetic tests within your GitHub Actions workflow
+Gulp logo
+Gulp
+Build a NodeJS project with npm and gulp.
+Grunt logo
+Grunt
+Build a NodeJS project with npm and grunt.
+More workflows
+Footer
+© 202
